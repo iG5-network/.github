@@ -1,7 +1,5 @@
 # 🎮 iG5 Network · Blockchain Protocol for iGaming & GameFi
 
-This `.github` repo powers our GitHub org profile, community standards & templates.
-
 ---
 
 | 🚀 Protocol | 📊 Metrics | 🌐 Links |
@@ -12,4 +10,4 @@ This `.github` repo powers our GitHub org profile, community standards & templat
 
 ---
 
-> Short, clean, and open-source ready. 🧩 Let’s build the future of gaming together.
+> true, transparent, and open-source ready. 🧩 Let’s build the future of gaming together.
