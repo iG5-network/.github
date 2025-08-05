@@ -1,39 +1,15 @@
-# 🎮 iG5 Network — Blockchain Protocol for iGaming & GameFi
+# 🎮 iG5 Network · Blockchain Protocol for iGaming & GameFi
 
-This is the `.github` repo — it powers the **GitHub profile** and org-wide templates for **iG5 Network**.
-
----
-
-## 🚀 Protocol at a Glance
-
-| Feature             | Details                                           |
-|---------------------|---------------------------------------------------|
-| ⚙️ Core Focus        | On-chain iGaming & GameFi                        |
-| 🔗 Blockchain        | EVM-compatible, scalable architecture            |
-| 🛠️ Tools Coming Soon | SDKs, APIs, Dev Portal                           |
-| 🕹️ Integrations      | 10+ GameFi projects in progress                  |
-| 👥 Community         | 30+ contributors · 1.2k+ members                 |
+This `.github` repo powers our GitHub org profile, community standards & templates.
 
 ---
 
-## 📁 What’s in This Repo?
-
-| File / Folder         | Purpose                                         |
-|------------------------|------------------------------------------------|
-| `profile/README.md`    | GitHub org homepage content                   |
-| `CONTRIBUTING.md`      | Contribution guidelines *(optional)*          |
-| `.github/*templates*`  | PR/issue templates *(optional)*               |
+| 🚀 Protocol | 📊 Metrics | 🌐 Links |
+|------------|------------|----------|
+| EVM-based, scalable blockchain for iGaming & GameFi | ⚙️ 10+ GameFi integrations<br>👥 30+ contributors<br>🌍 1.2k+ community members | 🌍 [Website](https://ig5.network)<br>🐦 [@iG5Network](https://twitter.com/iG5Network)<br>📧 [Email](mailto:contact@ig5.network) |
+| Full on-chain logic for transparency & fairness | 🔗 Multichain support<br>🛠️ SDKs & APIs coming soon | 📁 `profile/README.md`<br>📝 Contribution guides (optional)<br>📂 Templates (optional) |
+| Built for developers, players & studios | 📈 Ecosystem growth in progress | 🎯 Powered by blockchain, built for players |
 
 ---
 
-## 🌐 Connect With Us
-
-| Platform     | Link                                       |
-|--------------|--------------------------------------------|
-| 🌍 Website    | [ig5.network](https://ig5.network)         |
-| 🐦 Twitter/X  | [@iG5Network](https://twitter.com/iG5Network) |
-| 📧 Email      | [contact@ig5.network](mailto:contact@ig5.network) |
-
----
-
-> 🎯 Built for players. Powered by blockchain. Open to all.
+> Short, clean, and open-source ready. 🧩 Let’s build the future of gaming together.
